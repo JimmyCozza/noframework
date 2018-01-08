@@ -1,4 +1,0 @@
-<?php
-
-$string = 'string';
-    hwy
