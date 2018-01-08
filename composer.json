@@ -1,0 +1,12 @@
+{
+    "name": "cozza/home-cooked-php",
+    "description": "Just a learning exercise in building a php framework from scratch",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jimmy Cozza",
+            "email": "moatcozza@gmail.com"
+        }
+    ],
+    "require": {}
+}
